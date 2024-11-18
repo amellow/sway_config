@@ -1,3 +1,3 @@
 killall swaybg
 
-swaybg -i /home/arsh/Pictures/andor_BW.jpg -m fill
+swaybg -i /home/-/Pictures/-.jpg -m fill
