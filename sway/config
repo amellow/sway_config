@@ -5,7 +5,7 @@ set $mod Mod4
 set $term alacritty
 
 #background
-exec_always /home/arsh/.config/sway/wallpaper.sh
+exec_always /home/-/.config/sway/wallpaper.sh
 
 #bluelight
 #exec "gammastep -l 41.071960:-71.858684 -t 6500k:4500k"
